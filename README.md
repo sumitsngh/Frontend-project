@@ -1,5 +1,5 @@
 
-# Laguntas
+# Lagunitas
 
 This ad is regarding the beer brand company which tells the customer about how old the brand is and also in how many flavours this brand produces the beer.
 
@@ -19,14 +19,13 @@ HTML, CSS, Javascript, locomotive (JS library),  GSAP (JS library)
 ## Not so boring about me section 😎
 👩‍💻 I'm currently working on my portfolio which is definitely going to be awesome
 
-🧠 I'm currently learning backend.
+🧠 I'm currently learning DSA.
 
-💬 Ask me about front end related problems.
+💬 Ask me about DSA related problems.
 
 
 ## 🚀 About Me
-I'm a full stack developer and this some of my frontend works.
-you can also contact me through my social handels which are given bellow:
+Currently looking for an internship to obtain a challenging position that fully utilizes my skills and provides me with suitable opportunities to grow my technical and communication skills which would help me as a fresher to grow while working towards the organizational goals.
 
 
 ## 🔗 Links
