@@ -9,7 +9,8 @@ Brand name : Laguntas
 
 ## Result
 
-> https://lagunitas.netlify.app/
+> https://sumitsngh.github.io/Frontend-project/
+
 
 
 ## 🛠 Skills
