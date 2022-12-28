@@ -9,7 +9,7 @@ Brand name : Laguntas
 
 ## Result
 
-> https://sumitsngh.github.io/Frontend-project/
+> [https://sumitsngh.github.io/Frontend-project/](https://sumit100.netlify.app/)
 
 
 
